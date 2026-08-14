@@ -1,3 +1,11 @@
+## v0.30.29
+
+PATCH: Cloudflare toolchain, nanoid, and undici/postcss overrides on main since v0.30.28. Tag-gated deploy for hollow + dustfall.
+
+### Code
+
+- `package.json`, `package-lock.json`, `CHANGELOG.md`
+
 ## v0.30.28
 
 PATCH: dependency updates (cloudflare toolchain / types) and security CI follow-through on main since v0.30.27. Tag-gated deploy for hollow + dustfall.
